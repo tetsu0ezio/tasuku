@@ -1,0 +1,58 @@
+header {
+  width: 100%;
+  padding: 0px 10px 0px 20px
+}
+.header-logo {
+  font-size: 34px;
+  color: black;
+  margin: 10px 0px 0px;
+}
+.header-menu {
+  padding-right: 11px;
+  padding-top: 12px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: stretch;
+}
+.header-menu1 {
+  font-size:  20px;
+  margin: 0px 14px;
+  
+  
+}
+.header-menu2 {
+  font-size:20px;
+  margin: 0px 14px
+}
+.header-menu3 {
+  font-size:20px;
+  margin: 0px 14px ;
+  }
+  .box-link {
+    text-decoration: none; /* 下線消す */
+  }
+  
+  .box {
+    width: 200px;
+    padding: 10px;
+    color: black;
+    text-align: center;
+    border-radius: 8px;
+    margin: 0px 14px 0px 14px
+  }
+  .sns-class {
+    padding: 150px 90px 55px 90px;
+  }
+  .SNS-logo {
+    font-size: 54px;
+    margin: 50px;
+  }
+  .sns-row {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .sns-photo {
+    width: 800px;
+  }
+  
